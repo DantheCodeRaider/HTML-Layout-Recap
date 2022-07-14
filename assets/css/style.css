@@ -1,0 +1,50 @@
+span {
+    display: inline-block;
+    padding: 5px 5px 5px 5px;
+}
+
+#banner {
+    padding: 5px 5px 5px 5px;
+    border: solid black 5px;
+    width: 600px;
+}
+
+.icons {
+    display: inline-block;
+    align-items: right;
+    padding: 5px 5px 5px 5px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid black 5px;
+}
+
+.commentbox {
+    width: 125px;
+}
+
+.block {
+    border: solid gray 5px;
+}
+
+.img {
+    padding: 4px 4px 4px 4px;
+}
+
+#mini-layout {
+    display: inline-block;
+    border: solid black 5px;
+    padding: 5px 5px 5px 5px;
+    width: 600px;
+    text-align: center;
+    word-wrap: normal;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    display: block;
+    width: 600px;
+    text-align: center;
+    overflow: hidden;
+}
